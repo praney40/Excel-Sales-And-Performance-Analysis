@@ -21,7 +21,7 @@ Interactive Excel Dashboard analyzing retail sales metrics, product performance,
 - **Dynamic Filtering:** Interactive Slicers allowing region-wise and product-wise deep dives.
 
  📷 Dashboard Preview
-![Excel Dashboard Preview](excel_dashboard.png)
+![Excel Dashboard Preview](Screenshot 2026-10-28 230320.png)
 
  📁 Repository Structure
 - `Coffee_Shop_Sales.xlsx` : Cleaned Excel Workbook with Pivot Tables and Data Model.
